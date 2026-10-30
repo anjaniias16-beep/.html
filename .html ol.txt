@@ -1,0 +1,17 @@
+<html>
+<head>
+  <title>UL and LI Example</title>
+</head>
+<body>
+  <h2>My favorite foods</h2>
+  <ol>
+    <li>biriyani</li>
+    <li>momos</li>
+    <li>noodles</li>
+    <li>manchuria</li>
+    <li>pani puri</li>
+    <li>ice cream</li>
+  </ol>
+</body>
+</html>
+   
